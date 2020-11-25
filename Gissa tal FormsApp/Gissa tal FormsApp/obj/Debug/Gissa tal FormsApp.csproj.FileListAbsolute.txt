@@ -1,0 +1,10 @@
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\bin\Debug\Gissa tal FormsApp.exe.config
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\bin\Debug\Gissa tal FormsApp.exe
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\bin\Debug\Gissa tal FormsApp.pdb
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\obj\Debug\Gissa tal FormsApp.csprojAssemblyReference.cache
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\obj\Debug\Gissa_tal_FormsApp.Form1.resources
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\obj\Debug\Gissa_tal_FormsApp.Properties.Resources.resources
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\obj\Debug\Gissa tal FormsApp.csproj.GenerateResource.cache
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\obj\Debug\Gissa tal FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\obj\Debug\Gissa tal FormsApp.exe
+C:\Users\Ulv\Desktop\Kod\C#\Gissa tal uppgift\Gissa tal FormsApp\Gissa tal FormsApp\obj\Debug\Gissa tal FormsApp.pdb
